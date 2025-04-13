@@ -3,8 +3,8 @@
   @import "tailwindcss";
 
   /* Custom fonts */
-  @import url("@/assets/fonts/expletus-sans.css");
-  @import url("@/assets/fonts/anonymous-pro.css");
+  @import url("@/styles/expletus-sans.css");
+  @import url("@/styles/anonymous-pro.css");
 }
 
 @layer Defaults {

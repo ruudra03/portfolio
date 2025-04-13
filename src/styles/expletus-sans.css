@@ -1,0 +1,18 @@
+/* Bold */
+@font-face {
+  font-family: Expletus-sans-font;
+  src: url("@/fonts/expletussans-bold-webfont.woff2") format("woff2"),
+    url("@/fonts/expletussans-bold-webfont.woff") format("woff");
+  font-weight: 900;
+  font-display: fallback;
+}
+
+/* Bold-italic */
+@font-face {
+  font-family: Expletus-sans-font;
+  src: url("@/fonts/expletussans-bolditalic-webfont.woff2") format("woff2"),
+    url("@/fonts/expletussans-bolditalic-webfont.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: fallback;
+}
